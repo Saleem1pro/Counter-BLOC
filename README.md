@@ -2,10 +2,10 @@
 Smooth Counter App built using the BLOC Pattern
 
 # Counter Bloc Initial State
-(/bloc_app/pics/InitialState.png)
+(bloc_app/pics/Initial_State.png)
 
 # Counter Bloc Increment State
-(./bloc_app/pics/IncrementState.png)
+(bloc_app/pics/Increment_State.png)
 
 # Counter Bloc Decrement State
-![Decrement State](bloc_app/pics/DecrementState.png)
+(bloc_app/pics/Decrement_State.png)
